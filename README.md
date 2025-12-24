@@ -180,24 +180,3 @@ python automation/run_daily.py
 streamlit run dashboard/app.py
 
 ```
-
-
-
----
-
-## 👥 Project Team
-
-**Group: A-3** | Dept. of CSE, MIST
-
-* **Nahiyan Ashraf Siddique** (202114072)
-* **GM Rasiul Hasan** (202214022)
-* **Md. Ariful Islam Khan** (202214039)
-* **Md. Rubaet Kabir Zishan** (202214054)
-
----
-
-## 📚 References
-
-1. A. Lemmens and S. Gupta, "Managing Churn to Maximize Profits," *Marketing Science*, 2020.
-2. T. Vafeiadis et al., "A Comparison of Machine Learning Techniques for Customer Churn Prediction," *Simulation Modelling Practice and Theory*, 2015.
-3. S. M. Lundberg and S.-I. Lee, "A Unified Approach to Interpreting Model Predictions," *NeurIPS*, 2017.
