@@ -1,5 +1,5 @@
 # Churn Sentinel — Pipeline Run Report
-Generated: 2026-03-07 01:30:42
+Generated: 2026-03-07 01:39:09
 Mode: TEST
 
 ## Summary
@@ -12,7 +12,7 @@ Mode: TEST
 | Emails generated | 3 |
 | Discount eligible | 3 |
 | Avg churn probability | 42.0% |
-| Pipeline duration | 5.3s |
+| Pipeline duration | 3.6s |
 
 ## Risk Type Breakdown
 
@@ -25,9 +25,9 @@ Mode: TEST
 
 | User ID | Churn Prob | Risk Type | Discount | Subject |
 |---------|-----------|-----------|----------|---------|
-| USR_0001 | 90.8% | disengagement | 10% | Checking in on Your Journey with Our Pla |
-| USR_0005 | 78.6% | disengagement | 5% | Checking in on your success with us |
-| USR_0006 | 69.8% | disengagement | 5% | Checking in to See How You're Doing with |
+| USR_0001 | 90.8% | disengagement | 10% | Checking in & Offering Support |
+| USR_0005 | 78.6% | disengagement | 5% | Checking in and Showing We Care |
+| USR_0006 | 69.8% | disengagement | 5% | Checking in and a Special Offer for You |
 
 ## Output Files
 - Email log : `outputs/email_log.json`
