@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (too large for git)
+data/raw/*.csv
+data/processed/*.csv
+
+# Model artifacts
+outputs/*.pkl
+outputs/*.json
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
