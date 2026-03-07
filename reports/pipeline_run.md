@@ -1,5 +1,5 @@
 # Churn Sentinel — Pipeline Run Report
-Generated: 2026-03-07 01:39:09
+Generated: 2026-03-07 22:06:56
 Mode: TEST
 
 ## Summary
@@ -25,9 +25,9 @@ Mode: TEST
 
 | User ID | Churn Prob | Risk Type | Discount | Subject |
 |---------|-----------|-----------|----------|---------|
-| USR_0001 | 90.8% | disengagement | 10% | Checking in & Offering Support |
-| USR_0005 | 78.6% | disengagement | 5% | Checking in and Showing We Care |
-| USR_0006 | 69.8% | disengagement | 5% | Checking in and a Special Offer for You |
+| USR_0001 | 90.8% | disengagement | 10% | Checking in to see how we can better sup |
+| USR_0005 | 78.6% | disengagement | 5% | Checking In on Your Experience with Our  |
+| USR_0006 | 69.8% | disengagement | 5% | Checking in and a Special Offer to Help  |
 
 ## Output Files
 - Email log : `outputs/email_log.json`
